@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregops-000
 - 👀 I’m interested in Cloud Technology
-- 🌱 I’m currently learning PY
+- 🌱 I’m currently learning AI, Public Cloud
 - 💞️ I’m looking to collaborate on nice project
 - 📫 How to reach me by mail.
 
